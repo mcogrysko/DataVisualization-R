@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1003819/d4795a0a901247579ba16278cc4a5869
+bundleId: https://api.rpubs.com/api/v1/document/1003819/d4795a0a901247579ba16278cc4a5869
+url: http://rpubs.com/mcogrysko/1003819
+when: 1677344963.26817
+lastSyncTime: 1677344963.26818
